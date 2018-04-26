@@ -9,4 +9,7 @@ Requires jekyll-sitemap:
 ```
 gem install jekyll-sitemap
 ```
+
+---
+
 ![jekyll-grid screenshot](/images/jekyll-grid.png)
