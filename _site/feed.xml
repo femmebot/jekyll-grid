@@ -3,14 +3,14 @@
   <channel>
     <title>jekyll-grid</title>
     <description>A jekyll theme ideal for showcasing projects</description>
-    <link>http://femmebot.github.io</link>
-    <atom:link href="http://femmebot.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Mollis Offendit In Mea</title>
         <description>&lt;h2 id=&quot;h2-heading-looks-like-this&quot;&gt;H2 Heading Looks Like This&lt;/h2&gt;
 
-&lt;p&gt;Sample paragraph goes here and looks like this. Bacon ipsum dolor sit amet turducken meatloaf boudin pork loin meatball biltong, fatback capicola turkey pork chop. Short ribs boudin landjaeger kevin brisket ground round. &lt;/p&gt;
+&lt;p&gt;Sample paragraph goes here and looks like this. Bacon ipsum dolor sit amet turducken meatloaf boudin pork loin meatball biltong, fatback capicola turkey pork chop. Short ribs boudin landjaeger kevin brisket ground round.&lt;/p&gt;
 
 &lt;h3 id=&quot;h3-heading-looks-like-this&quot;&gt;H3 Heading Looks Like This&lt;/h3&gt;
 
@@ -18,7 +18,7 @@
 
 &lt;ol&gt;
   &lt;li&gt;Sample ordered list&lt;/li&gt;
-  &lt;li&gt;List item &lt;/li&gt;
+  &lt;li&gt;List item&lt;/li&gt;
   &lt;li&gt;Another list item&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -33,15 +33,15 @@ Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon ke
 
 </description>
         <pubDate>Sat, 01 Mar 2014 00:00:00 -0500</pubDate>
-        <link>http://femmebot.github.io/Mollis-offendit-in-mea/</link>
-        <guid isPermaLink="true">http://femmebot.github.io/Mollis-offendit-in-mea/</guid>
+        <link>http://localhost:4000/Mollis-offendit-in-mea/</link>
+        <guid isPermaLink="true">http://localhost:4000/Mollis-offendit-in-mea/</guid>
       </item>
     
       <item>
         <title>Lorem Ipsum Quid Nostrud</title>
         <description>&lt;h2 id=&quot;h2-heading-looks-like-this&quot;&gt;H2 Heading Looks Like This&lt;/h2&gt;
 
-&lt;p&gt;Sample paragraph goes here and looks like this. Bacon ipsum dolor sit amet turducken meatloaf boudin pork loin meatball biltong, fatback capicola turkey pork chop. Short ribs boudin landjaeger kevin brisket ground round. &lt;/p&gt;
+&lt;p&gt;Sample paragraph goes here and looks like this. Bacon ipsum dolor sit amet turducken meatloaf boudin pork loin meatball biltong, fatback capicola turkey pork chop. Short ribs boudin landjaeger kevin brisket ground round.&lt;/p&gt;
 
 &lt;h3 id=&quot;h3-heading-looks-like-this&quot;&gt;H3 Heading Looks Like This&lt;/h3&gt;
 
@@ -49,7 +49,7 @@ Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon ke
 
 &lt;ol&gt;
   &lt;li&gt;Sample ordered list&lt;/li&gt;
-  &lt;li&gt;List item &lt;/li&gt;
+  &lt;li&gt;List item&lt;/li&gt;
   &lt;li&gt;Another list item&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -64,15 +64,15 @@ Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon ke
 
 </description>
         <pubDate>Sat, 01 Mar 2014 00:00:00 -0500</pubDate>
-        <link>http://femmebot.github.io/Lorem-Ipsum-Dolor/</link>
-        <guid isPermaLink="true">http://femmebot.github.io/Lorem-Ipsum-Dolor/</guid>
+        <link>http://localhost:4000/Lorem-Ipsum-Dolor/</link>
+        <guid isPermaLink="true">http://localhost:4000/Lorem-Ipsum-Dolor/</guid>
       </item>
     
       <item>
         <title>Another Project Title</title>
         <description>&lt;h2 id=&quot;h2-heading-looks-like-this&quot;&gt;H2 Heading Looks Like This&lt;/h2&gt;
 
-&lt;p&gt;Sample paragraph goes here and looks like this. Bacon ipsum dolor sit amet turducken meatloaf boudin pork loin meatball biltong, fatback capicola turkey pork chop. Short ribs boudin landjaeger kevin brisket ground round. &lt;/p&gt;
+&lt;p&gt;Sample paragraph goes here and looks like this. Bacon ipsum dolor sit amet turducken meatloaf boudin pork loin meatball biltong, fatback capicola turkey pork chop. Short ribs boudin landjaeger kevin brisket ground round.&lt;/p&gt;
 
 &lt;h3 id=&quot;h3-heading-looks-like-this&quot;&gt;H3 Heading Looks Like This&lt;/h3&gt;
 
@@ -80,7 +80,7 @@ Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon ke
 
 &lt;ol&gt;
   &lt;li&gt;Sample ordered list&lt;/li&gt;
-  &lt;li&gt;List item &lt;/li&gt;
+  &lt;li&gt;List item&lt;/li&gt;
   &lt;li&gt;Another list item&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -95,15 +95,15 @@ Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon ke
 
 </description>
         <pubDate>Sat, 01 Feb 2014 00:00:00 -0500</pubDate>
-        <link>http://femmebot.github.io/Another-Project-Title/</link>
-        <guid isPermaLink="true">http://femmebot.github.io/Another-Project-Title/</guid>
+        <link>http://localhost:4000/Another-Project-Title/</link>
+        <guid isPermaLink="true">http://localhost:4000/Another-Project-Title/</guid>
       </item>
     
       <item>
         <title>Hello World</title>
         <description>&lt;h2 id=&quot;h2-heading-looks-like-this&quot;&gt;H2 Heading Looks Like This&lt;/h2&gt;
 
-&lt;p&gt;Sample paragraph goes here and looks like this. Bacon ipsum dolor sit amet turducken meatloaf boudin pork loin meatball biltong, fatback capicola turkey pork chop. Short ribs boudin landjaeger kevin brisket ground round. &lt;/p&gt;
+&lt;p&gt;Sample paragraph goes here and looks like this. Bacon ipsum dolor sit amet turducken meatloaf boudin pork loin meatball biltong, fatback capicola turkey pork chop. Short ribs boudin landjaeger kevin brisket ground round.&lt;/p&gt;
 
 &lt;h3 id=&quot;h3-heading-looks-like-this&quot;&gt;H3 Heading Looks Like This&lt;/h3&gt;
 
@@ -111,7 +111,7 @@ Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon ke
 
 &lt;ol&gt;
   &lt;li&gt;Sample ordered list&lt;/li&gt;
-  &lt;li&gt;List item &lt;/li&gt;
+  &lt;li&gt;List item&lt;/li&gt;
   &lt;li&gt;Another list item&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -126,8 +126,8 @@ Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon ke
 
 </description>
         <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
-        <link>http://femmebot.github.io/Hello-World/</link>
-        <guid isPermaLink="true">http://femmebot.github.io/Hello-World/</guid>
+        <link>http://localhost:4000/Hello-World/</link>
+        <guid isPermaLink="true">http://localhost:4000/Hello-World/</guid>
       </item>
     
   </channel>
